@@ -8,7 +8,7 @@ Mapea los datos de dicha persona tal como se aprecia en esta [Demo](https://js-b
 
 NOTA: El campo Location/Country no está en la demo, pero tú si deberías mapearlo.
 
-## NUEVOS REQUISITOS 2022
+## BONUS - NUEVOS REQUISITOS 2022
 
 1. Elimina el botón de obtener persona. Ahora, al cargar la aplicación, cada 5 segundos, debe generarse una persona totalmente nueva
 
